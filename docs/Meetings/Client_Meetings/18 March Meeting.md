@@ -3,7 +3,7 @@
 ## Participants
 - Haocheng Wang
 - Tori Li
-- Sean Xiao
+- Aoxiang(Sean) Xiao
 - Hao Guan (Team Representative)
 - Heng Chen
 - Mingchong Li
@@ -15,7 +15,7 @@
 ### Question Providers
 - Haocheng Wang
 - Tori Li
-- Sean Xiao
+- Aoxiang(Sean) Xiao
 - Hao Guan
 
 ### Notes Compiled By
