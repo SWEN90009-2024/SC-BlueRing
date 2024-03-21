@@ -9,6 +9,9 @@
 - Mingchong Li
 - Jianqiao Song
 - Yutian Fan
+- Weihuang Wu
+- Danning Feng
+
 
 ## Meeting Summary
 
