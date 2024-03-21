@@ -1,6 +1,10 @@
 # Project Overview
 
-The Student Competency Assessment Platform (SCAP) is designed to assess complex student skills across various educational settings. Using Ruby, educators can evaluate students' abilities, resulting in individual and class-wide competency reports. This platform serves teachers and administrators by providing detailed insights into students' learning progression, especially as we navigate towards high-stakes certification. Our target audience includes educators, academic institutions, and students, aiming to ensure the accuracy and reliability of educational assessments and credentials.
+The Student Competency Assessment Solution (SCAS) is specifically developed to enhance the assessment of complex student skills in diverse educational settings. Leveraging the capabilities of the existing Ruby platform, this solution is designed to enable educators to more effectively evaluate student abilities, resulting in both individual and aggregated class-wide competency reports. This initiative is primarily aimed at teachers and administrators, offering in-depth insights into the learning progression of students as the educational landscape progresses towards high-stakes certification processes.
+
+Our primary goal is to cater to the needs of educators, academic institutions, and students by promoting the accuracy and reliability of educational assessments and credentials. By addressing key challenges such as the need for assessment consistency, the reduction of teacher workload, and the enhancement of the efficiency and accuracy of evaluations, SCAS seeks to empower stakeholders within the educational ecosystem.
+
+Target Audience: Our solutions are designed with educators, academic institutions, and students in mind, focusing on the pivotal need to support educational excellence through reliable and insightful assessment methodologies.
 
 ## Repository Structure
 
