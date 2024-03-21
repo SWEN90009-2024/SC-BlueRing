@@ -29,8 +29,6 @@
 4. **Idea Sharing**
     - Team members shared ideas and collaborated to draft the requirements elicitation document, leveraging insights from the client meeting.
 
-5. **No Client's Problems Identified**
-    - Unlike in the client meeting, no specific problems from the client's side were discussed in this team meeting.
 
 ### Next Steps
 - Further refine the requirements elicitation document to ensure it fully captures the project's scope and objectives.
