@@ -11,6 +11,8 @@ Target Audience: Our solutions are designed with educators, academic institution
 Below is a detailed outline of the repository's structure, providing a clear overview of the organization of documents, tests, prototypes, UI assets, and data samples.
 
 - `docs/` - Contains all documentation files related to the project. Documentation is organized into subfolders for better structuring and ease of access.
+- `docs/meetings` - Contains the client and team meeting recording.
+- `docs/sprint1` - Contains the document required in Sprint1 Checklist.
 
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
 
