@@ -31,7 +31,7 @@
     - Establish student self-assessment (not through direct questioning, but by setting up game scenarios to assign scores based on students' choices), which is then weighted with the teachers' grades for calculation.
       
 3. **Come up with possible solutions**
-    -*To address issues of subjectivity or lack of sandardization in teachers' grading:**To solve the problem of variability in grading due to different subjects or different teachers' perceptions:*
+   - *To solve the problem of variability in grading due to different subjects or different teachers' perceptions:*
     - Set weighted coefficients for questions: This could be provided by teachers or derived from statistical data (for example, if we find that among Teacher A's students, those who score high on question 1 tend to have higher overall scores, we can assume that this teacher places particular emphasis on the ability reflected by question 1, and we could then choose to increase or decrease the weighted coefficient for this question).
     -  Use a more rational pie chart to comprehensively reflect students' abilities.
 
