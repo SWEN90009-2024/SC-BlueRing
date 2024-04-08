@@ -38,3 +38,4 @@
 ### Next Steps
 - Summary the above information and send an email to our mentor therefore ask questions to our client(Hao Guan).
 - Start to thinking about persona and user stories.
+- Two personas build by each subteam and due by Next Monday 23:59.
