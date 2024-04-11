@@ -1,10 +1,10 @@
 # Roles and responsibilities
 | Name | Role | Responsibilities |
 | --- | --- | --- |
-| Hao Guan | Meeting facilitator | To survey members' free time and schedule meeting with the client, then control and moderate the proceedings of the meeting.
-At the same time, he is also responsible for assisting the Interviewer in asking questions during the meeting and providing details for the questions raised. |
-| Tori Li | Interviewer | To get confused parts and problems from team members, organize them into questions for the clients in the meeting, and ask questions to the clients in the meeting. |
-| Mingchong Li | Meeting recorder | To be responsible for recording details while attending the meeting and recording the meeting for team members to organize the meeting content after the meeting. |
+| Hao Guan | Meeting facilitator | Survey members' availability, schedule client meetings, and moderate proceedings. Assist interviewer with questions and provide details.
+|
+| Tori Li | Interviewer | Gather team members' questions and concerns, organize them for client meetings, and facilitate discussions with clients. |
+| Mingchong Li | Meeting recorder | Take meeting notes and record discussions for team review and organization. |
 
 ***Roles will be rotated each week within the team.**
 # How to get requirements
