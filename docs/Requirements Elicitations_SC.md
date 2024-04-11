@@ -2,7 +2,6 @@
 | Name | Role | Responsibilities |
 | --- | --- | --- |
 | Hao Guan | Meeting facilitator | Survey members' availability, schedule client meetings, and moderate proceedings. Assist interviewer with questions and provide details.
-||
 | Tori Li | Interviewer | Gather team members' questions and concerns, organize them for client meetings, and facilitate discussions with clients. |
 | Mingchong Li | Meeting recorder | Take meeting notes and record discussions for team review and organization. |
 
