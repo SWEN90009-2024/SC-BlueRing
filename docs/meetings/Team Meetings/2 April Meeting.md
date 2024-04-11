@@ -46,3 +46,6 @@
 - Compile and share individual research findings by the next team meeting.
 - Begin drafting personas based on research insights.
 - Schedule a follow-up meeting to discuss and finalize personas, due on 7 April.
+
+### Task Assignments and Deadlines
+- Please refer to the following website:https://trello.com/invite/b/MNFMWyry/ATTI9e006ff63296b0ddd0990eff1d4a0b6fA6FF73B0/sc-bluering
