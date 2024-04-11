@@ -6,6 +6,16 @@ Our primary goal is to cater to the needs of educators, academic institutions, a
 
 Target Audience: Our solutions are designed with educators, academic institutions, and students in mind, focusing on the pivotal need to support educational excellence through reliable and insightful assessment methodologies.
 
+## Team: SC-BlueRing
+
+Jianqiao Song, Hanying Li, Mingchong Li, Heng CHEN, Yutian Fan, Danning Feng, Weihuang Wu, Haocheng Wang, Hao Guan, Aoxiang Xiao
+
+## Stakeholder
+
+Industry partner: Narelle English
+
+Supervisor: Afsana Imam
+
 ## Repository Structure
 
 Below is a detailed outline of the repository's structure, providing a clear overview of the organization of documents, tests, prototypes, UI assets, and data samples.
