@@ -21,8 +21,13 @@ Supervisor: Afsana Imam
 Below is a detailed outline of the repository's structure, providing a clear overview of the organization of documents, tests, prototypes, UI assets, and data samples.
 
 - `docs/` - Contains all documentation files related to the project. Documentation is organized into subfolders for better structuring and ease of access.
-- `docs/meetings` - Contains the client and team meeting recording + weekly stand-up meeting notes.
-- `docs/sprint1` - Contains the documents required in Sprint1 Checklist.
+- `docs/meetings` - Contains the client meeting, internal team meeting and client meeting recording & meeting notes.
+- `docs/Project Background.md` - Contains the project background include description of the project that accurately and adequately defines the problem and outlines the scope of the solution.
+- `docs/Requirements Elicitation.md` - Contains our requirements elicitation methods and roles/responsibilities during the meeting with industry partner.
+- `docs/Roles and Responsibilities.md` - Contains our roles and responsibilities with our team.
+- `docs/before personas` - Contains the evidences that the process to create personas has been followed, include DBF list and Motivational model.
+- `docs/personas` - Contains five personas based on the research done by our team and the discussion with the industry partners, strictly follow the file format required by the unimelb.
+- `docs/user story` - Contains user stroies completely cover the capabilities required by the client, strictly follow the file format required by the unimelb.
 
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
 
