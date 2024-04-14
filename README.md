@@ -23,16 +23,16 @@ Supervisor: Afsana Imam
 - Based on sprint1 feedback, we have update our [Requirements Elicitations](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Requirements%20Elicitations_SC.md). Added [roles and responsibility](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Roles%20and%20Responsibilities.md) and has been identified.
 - Based on sprint1 feedback, we have update Readme and display the team members and stakeholders.
 - Based on sprint1 feedback, we have add changlogs for each sprint in Readme.
-- For sprint2, we have upload the evidence that the process to create personas which include DBF list and Motivational model.
-- For sprint2, we have made and upload the personas that followed the Motivational model and our team research. The personas strictly follow the file format required by the unimelb.
-- For sprint2, we have made and upload the user stories cover the capabilities required by the client. The user stories strictly follow the file format required by the unimelb.
+- For sprint2, we have upload the evidence that the process to create personas which include [DBF list](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/before%20personas/DBF-List.pdf) and [Motivational model](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/before%20personas/Motivational%20model.pdf) in the [before persona](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/before%20personas) subfolder.
+- For sprint2, we have made and upload the [personas](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/personas) that followed the Motivational model and our team research. The personas strictly follow the file format required by the unimelb.
+- For sprint2, we have made and upload the [user stories](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/user%20stories.pdf) cover the capabilities required by the client in [user story](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/user%20story) subfolder. The user stories strictly follow the file format required by the unimelb.
 
 
 ## Changelogs for sprint1
 
 - For sprint1, we have upload [Project Background](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Project%20Background.md) in the sprint1 folder.
-- For sprint1, we have upload Requirements Elicitations in the sprint1 folder.
-- For sprint1, we have upload Roles and Responsibilities in the sprint1 folder.
+- For sprint1, we have upload [Requirements Elicitations](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Requirements%20Elicitations_SC.md) in the sprint1 folder.
+- For sprint1, we have upload [Roles and Responsibilities](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Roles%20and%20Responsibilities.md) in the sprint1 folder.
 - For sprint1, we have followed the checklist provided by the unimelb.
 - For sprint1, we have strictly according to the unimelb's requirements in the sprint1 checklist and rubric.
 
