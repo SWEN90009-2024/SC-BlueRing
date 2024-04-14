@@ -16,6 +16,27 @@ Industry partner: Narelle English
 
 Supervisor: Afsana Imam
 
+## Changelogs for sprint2
+
+- Based on sprint1 feedback, we have removed sprint1 subfolder.
+- Based on sprint1 feedback, we have update our Project Background. Updated what is the problem why need solution and what is the solution? and the target audience has been identified.
+- Based on sprint1 feedback, we have update our Requirements Elicitations. Added roles and responsibility and has been identified.
+- Based on sprint1 feedback, we have update Readme and display the team members and stakeholders.
+- Based on sprint1 feedback, we have add changlogs for each sprint in Readme.
+- For sprint2, we have upload the evidence that the process to create personas which include DBF list and Motivational model.
+- For sprint2, we have made and upload the personas that followed the Motivational model and our team research. The personas strictly follow the file format required by the unimelb.
+- For sprint2, we have made and upload the user stories cover the capabilities required by the client. The user stories strictly follow the file format required by the unimelb.
+
+
+## Changelogs for sprint1
+
+- For sprint1, we have upload Project Background in the sprint1 folder.
+- For sprint1, we have upload Requirements Elicitations in the sprint1 folder.
+- For sprint1, we have upload Roles and Responsibilities in the sprint1 folder.
+- For sprint1, we have followed the checklist provided by the unimelb.
+- For sprint1, we have strictly according to the unimelb's requirements in the sprint1 checklist and rubric.
+
+
 ## Repository Structure
 
 Below is a detailed outline of the repository's structure, providing a clear overview of the organization of documents, tests, prototypes, UI assets, and data samples.
