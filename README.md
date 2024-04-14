@@ -19,7 +19,7 @@ Supervisor: Afsana Imam
 ## Changelogs for sprint2
 
 - Based on sprint1 feedback, we have removed sprint1 subfolder.
-- Based on sprint1 feedback, we have update our Project Background. Updated what is the problem why need solution and what is the solution? and the target audience has been identified.
+- Based on sprint1 feedback, we have update our [Project Background](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Project%20Background.md). Updated what is the problem why need solution and what is the solution? and the target audience has been identified.
 - Based on sprint1 feedback, we have update our Requirements Elicitations. Added roles and responsibility and has been identified.
 - Based on sprint1 feedback, we have update Readme and display the team members and stakeholders.
 - Based on sprint1 feedback, we have add changlogs for each sprint in Readme.
