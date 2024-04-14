@@ -30,7 +30,7 @@ Supervisor: Afsana Imam
 
 ## Changelogs for sprint1
 
-- For sprint1, we have upload Project Background in the sprint1 folder.
+- For sprint1, we have upload [Project Background](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Project%20Background.md) in the sprint1 folder.
 - For sprint1, we have upload Requirements Elicitations in the sprint1 folder.
 - For sprint1, we have upload Roles and Responsibilities in the sprint1 folder.
 - For sprint1, we have followed the checklist provided by the unimelb.
