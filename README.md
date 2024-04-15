@@ -30,7 +30,7 @@ Supervisor: Afsana Imam
 - For sprint2, we added the [team meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings/Team%20Meetings) in team meeting subfolder.
 - For sprint2, we have update the Repository Structure in README file.
 - For sprint2, we have write the [sprint review](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/sprint%20review.md) for sprint1 and the future sprint review will be update in this file as well.
-- For sprint2, we have write the [mentor feedback]([https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/sprint%20review.md](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) in the [Mentor Meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings/Mentor%20Meetings) and the future sprint review will be update in this file as well.
+- For sprint2, we have write the [mentor feedback](docs/meetings/Mentor Meetings/Mentor Feedbacks.md) in the [Mentor Meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings/Mentor%20Meetings) and the future sprint review will be update in this file as well.
 
 
 ## Changelogs for sprint1
