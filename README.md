@@ -30,6 +30,7 @@ Supervisor: Afsana Imam
 - For sprint2, we added the [team meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings/Team%20Meetings) in team meeting subfolder.
 - For sprint2, we have update the Repository Structure in README file.
 - For sprint2, we have write the [sprint review](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/sprint%20review.md) for sprint1 and the future sprint review will be update in this file as well.
+- For sprint2, we have write the [mentor feedback]([https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/sprint%20review.md](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md)) in the [Mentor Meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings/Mentor%20Meetings) and the future sprint review will be update in this file as well.
 
 
 ## Changelogs for sprint1
@@ -46,7 +47,7 @@ Supervisor: Afsana Imam
 Below is a detailed outline of the repository's structure, providing a clear overview of the organization of documents, tests, prototypes, UI assets, and data samples.
 
 - `docs/` - Contains all documentation files related to the project. Documentation is organized into subfolders for better structuring and ease of access.
-- `docs/meetings` - Contains the client meeting, internal team meeting and client meeting recording & meeting notes.
+- `docs/meetings` - Contains the client meeting, internal team meeting and mentor meeting recording & meeting notes, also the mentor feedback is included.
 - `docs/Project Background.md` - Contains the project background include description of the project that accurately and adequately defines the problem and outlines the scope of the solution.
 - `docs/Requirements Elicitation.md` - Contains our requirements elicitation methods and roles/responsibilities during the meeting with industry partner.
 - `docs/Roles and Responsibilities.md` - Contains our roles and responsibilities with our team.
