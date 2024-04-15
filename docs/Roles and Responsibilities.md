@@ -10,7 +10,7 @@ Subteam leader: Mingchong Li, Sean Xiao
 * Fostering a positive team environment, encouraging collaboration, and ensuring effective communication within their sub-team.
 * Assist in managing the workload within their sub-team, ensuring that tasks are appropriately distributed, and team members have the necessary resources to complete their work efficiently.
 
-Quality assurance: Heng Chen  
+Quality assurance: Wanghao Cheng, Aoxiang Xiao
 * Develop and execute comprehensive test plans and test cases to validate software functionality.
 * Collaborate with cross-functional teams to ensure alignment between requirements, design, development, and testing.
 
