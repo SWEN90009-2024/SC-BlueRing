@@ -8,7 +8,7 @@ Target Audience: Our solutions are designed with educators, academic institution
 
 ## Team: SC-BlueRing
 
-Jianqiao Song, Hanying Li, Mingchong Li, Heng CHEN, Yutian Fan, Danning Feng, Weihuang Wu, Haocheng Wang, Hao Guan, Aoxiang Xiao
+Team members: Jianqiao Song, Hanying Li, Mingchong Li, Heng CHEN, Yutian Fan, Danning Feng, Weihuang Wu, Haocheng Wang, Hao Guan, Aoxiang Xiao
 
 ## Stakeholder
 
