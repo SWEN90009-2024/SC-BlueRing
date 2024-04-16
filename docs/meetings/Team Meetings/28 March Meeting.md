@@ -36,6 +36,9 @@
     -  Use a more rational pie chart to comprehensively reflect students' abilities.
 
 ### Next Steps
-- Summary the above information and send an email to our mentor therefore ask questions to our client(Hao Guan).
-- Start to thinking about persona and user stories.
-- Two personas build by each subteam and due by Next Monday 23:59.
+- Summary the above information and send an email to our mentor therefore ask questions to our client (Hao Guan).
+- Start to thinking about persona and user stories. (All members)
+- Two personas build by each subteam and due by Next Monday 23:59. (All members)
+
+### Task Assignments and Deadlines
+- Please refer to the following website:https://trello.com/invite/b/MNFMWyry/ATTI9e006ff63296b0ddd0990eff1d4a0b6fA6FF73B0/sc-bluering

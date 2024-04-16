@@ -34,5 +34,8 @@
 
 
 ### Next Steps
-- Further refine the requirements elicitation document to ensure it fully captures the project's scope and objectives.
-- Update all documentation based on the information gathered during the client meeting to align with client expectations and feedback.
+- Further refine the requirements elicitation document to ensure it fully captures the project's scope and objectives. (Aoxiang Xiao, Hao Guan)
+- Update all documentation based on the information gathered during the client meeting to align with client expectations and feedback. (Yutian Fan, Haocheng Wang)
+
+### Task Assignments and Deadlines
+- Please refer to the following website:https://trello.com/invite/b/MNFMWyry/ATTI9e006ff63296b0ddd0990eff1d4a0b6fA6FF73B0/sc-bluering

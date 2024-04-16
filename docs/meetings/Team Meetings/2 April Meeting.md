@@ -36,9 +36,9 @@
     - Brainstorming session on potential personas, considering various demographics, psychographics, and user behaviors.
 
 ### Action items
-- Each team member to conduct individual research on user profiles and report findings.
-- Collaboration on combining research insights to create comprehensive personas.
-- Development of draft personas for review and refinement in the next meeting.
+- Each team member to conduct individual research on user profiles and report findings. (All members)
+- Collaboration on combining research insights to create comprehensive personas. (All members)
+- Development of draft personas for review and refinement in the next meeting. (Hao Guan)
 
 ### Next Steps
 - Compile and share individual research findings by the next team meeting.

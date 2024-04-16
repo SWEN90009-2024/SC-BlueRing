@@ -47,5 +47,8 @@
 
 ### Next Steps
 - Schedule period meetings with Mentor (Hao Guan).
-- Set up the team meeting to brainstorm.
-- Keep update trello board.
+- Set up the team meeting to brainstorm. (Tori Li)
+- Keep update trello board. (Aoxiang Xiao)
+
+### Task Assignments and Deadlines
+- Please refer to the following website:https://trello.com/invite/b/MNFMWyry/ATTI9e006ff63296b0ddd0990eff1d4a0b6fA6FF73B0/sc-bluering

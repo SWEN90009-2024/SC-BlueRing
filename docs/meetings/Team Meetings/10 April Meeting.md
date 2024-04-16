@@ -47,9 +47,9 @@
 
 
 ### Action items
-- Finalize and confirm the set of five personas.
-- Start the development of user stories based on these personas.
-- Specific team members to focus on refining project aspects based on Sprint 1 feedback.
+- Finalize and confirm the set of five personas. (Hao Guan, Aoxiang Xiao)
+- Start the development of user stories based on these personas. (All members)
+- Specific team members to focus on refining project aspects based on Sprint 1 feedback.(Aoxiang Xiao, Hao Guan, Haocheng Wang)
 
 ### Next Steps
 - Review and integrate feedback into the ongoing development process.
