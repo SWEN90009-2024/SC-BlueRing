@@ -6,11 +6,11 @@ Scrum Master: Tori Li  
 * Facilitates Scrum events such as the Daily Standup, Sprint Planning, Sprint Review, and Sprint Retrospective.
 * Acts as a servant-leader, supporting the team's needs and fostering a collaborative environment
 
-Subteam leader: Mingchong Li, Sean Xiao
+Subteam leader: Mingchong Li, Aoxiang Xiao
 * Fostering a positive team environment, encouraging collaboration, and ensuring effective communication within their sub-team.
 * Assist in managing the workload within their sub-team, ensuring that tasks are appropriately distributed, and team members have the necessary resources to complete their work efficiently.
 
-Quality assurance: Wanghao Cheng, Aoxiang Xiao
+Quality assurance: Haocheng Wang, Aoxiang Xiao
 * Develop and execute comprehensive test plans and test cases to validate software functionality.
 * Collaborate with cross-functional teams to ensure alignment between requirements, design, development, and testing.
 
@@ -34,6 +34,6 @@ Github structure coordinator: Haocheng Wang  
 * Coordinate the organization and structure of repositories within the project, ensuring consistency and clarity in naming conventions, directory structures, and file hierarchies.
 * Define and implement branching strategies and workflows for version control, including strategies for feature branching, release management, and collaboration.
 
-Developers: Hao Guan, Weihuang Wu, Danning Feng, Jianqiao Song, Heng CHEN, Tori Li, Yutian Fan, Mingchong Li, Sean Xiao, Haocheng Wang
+Developers: Hao Guan, Weihuang Wu, Danning Feng, Jianqiao Song, Heng CHEN, Tori Li, Yutian Fan, Mingchong Li, Aoxiang Xiao, Haocheng Wang
 * utilize Figma's prototyping features to create interactive prototypes that demonstrate the functionality and user experience of designs
 

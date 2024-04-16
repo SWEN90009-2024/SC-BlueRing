@@ -55,6 +55,7 @@ Below is a detailed outline of the repository's structure, providing a clear ove
 - `docs/personas` - Contains five personas based on the research done by our team and the discussion with the industry partners, strictly follow the file format required by the unimelb.
 - `docs/user story` - Contains user stroies completely cover the capabilities required by the client, strictly follow the file format required by the unimelb.
 - `docs/sprint review.md` - Contains the sprint review for each sprint after sprint finished.
+- `docs/sprint retrospective.md` - Contains the sprint retrospective for each sprint after sprint finished.
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
