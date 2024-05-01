@@ -28,10 +28,10 @@
 
 ### **Before the meeting begins**
 
-1. Mentor and Hao determine the starting time for weekly meetings
+1. Mentor and Hao determine the start time for weekly meetings
 2. Mentor and Hao determine how to contact the client
     - Can be sent to client through mentor
-    - This agenda can be sent directly to Richard, cc mentor
+    - This agenda can be sent directly to Richard, cc: mentor
 
 ### **Possible solution 1**
 
@@ -44,7 +44,7 @@
         1. Visualize the options and attach examples to help teachers better understand and increase speed and accuracy.
         2. Slider form
         3. Pick and group format, matrix table format: It is convenient for teachers to make horizontal comparisons between students and complete the assessment of all students on the same topic at one time
-2. Sean and mentor confirm preferred solutions and feasible solutions, and Hao provides additional explanations on subteam 2’s ideas
+2. Sean and the mentor confirm preferred and feasible solutions, while Hao provides additional explanations on subteam 2’s ideas
 3. Mentor’s ideas and suggestions
     - We can use AI tools such as Midjourney to help with visualization and generate images that are highly relevant to the options.
     - Mentor prefers visual solutions and matrix table solutions
@@ -65,6 +65,6 @@
     - When evaluating, teachers need to describe their interactions with the student to demonstrate their understanding of the student.
     - For students with different professional intentions, higher weight can be given to the scores in the corresponding direction in the final report.
 2. Mentor’s ideas and suggestions
-- It is recommended to present the solution in the form of a flow chart by using Figma so that customers can better understand it.
+- Mentor recommends to present the solution in the form of a flow chart by using Figma so that customers can better understand it.
 - For low-fidelity prototypes, it is recommended to use a hand-drawn effect and annotate the function of each interface element.
-- Overall recognition of the proposed ideas and suggestions to continue improving the details.
+- Overall, the proposed ideas and suggestions are recognized, and there is a need to continue improving the details

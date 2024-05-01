@@ -30,11 +30,11 @@
     - In the meeting, we will report to mentor and show our work.
     - Mentor shows how to schedule period meetings via Zoom.
 
-3. **Recieve documents from Mentor**
+3. **Receieve documents from Mentor**
     - The documents about the project sent to Product Owner's email.
-    - Product Owner need to share the document with team.
+    - Product Owner needs to share the document with team.
 
-4. **Ask client question**
+4. **Ask client questions**
     - Product Owner summarize the questions.
     - Send to Mentor first, then Mentor will ask client for feedback and answer.
 
@@ -48,4 +48,4 @@
 ### Next Steps
 - Schedule period meetings with Mentor (Hao Guan).
 - Set up the team meeting to brainstorm.
-- Keep update trello board.
+- Keep updating trello board.

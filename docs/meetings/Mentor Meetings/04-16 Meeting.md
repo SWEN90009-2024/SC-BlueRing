@@ -36,11 +36,10 @@
 
 ### ** Mentor's feedbacks **
 
-1. Mentor said that we should make a document for retrospective and it should contain the collaoration and participation of 
-all 10 members
-2. Mentor mentioned that we could have a event for ice-breaking
+1. Mentor said that we should make a document for retrospective and it should contain the collaboration and participation of all 10 members
+2. Mentor mentioned that we could have a event for ice-breaking event
 3. Mentor mentioned we need to share our outcomes with her and ask her for the resources and help we need
-4. Mentor pointed that Hao cannot be scrum master and product owner at the same time, so we need to find another product owner
+4. Mentor pointed that Hao cannot be scrum master and product owner at the same time, so we need to find a new product owner
 5. Mentor mentioned that we should turn on our camera when meeting 
 
 ### ** Progress display and stand-up meeting **
