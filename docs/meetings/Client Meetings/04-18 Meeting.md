@@ -35,16 +35,16 @@
 
 ### **Ideas waiting for client feedback**
 
-1. Hover the mouse over an option to display the standards and examples corresponding to the option / see the evaluations of other teachers
+1. Hovering the mouse over an option to display the standards and examples corresponding to the option / viewing the evaluations of other teachers
     - Teachers may not like browsing and slow pace
     - There may not be many teachers assessing the same student
     - The client believes that letting teachers influence each other should be avoided, which may lead to bias.
-2. Re-assign scores based on each teacher’s ranking of all students
+2. Reassigning scores based on each teacher’s ranking of all students
     - The client thought it was an interesting idea
     - We can think carefully about how to calculate the coefficient, such as the time each teacher spends with students
 3. Has the Ruby platform been completed? Which part does the client want us to modify or redesign?
     - More in the research stage, any part can be changed, depending on the time
-    - Our solution doesn’t even need to be a Ruby plugin, it can be more creative
+    - Our solution doesn’t necessarily have to be a Ruby plugin; it can be more creative
 4. Confirm whether the stakeholders are correct
     - Correct, system security leaders, the school leader, teachers, students and parents
 
@@ -67,8 +67,8 @@
 6. Reported visibility issues
     - Should students be able to see each other’s reports?
         1. Generally speaking, teachers will not show other people’s reports to students.
-        2. But if it is a low-stakes in-class self-assessment report, students may see each other’s reports
+        2. However, if it is a low-stakes in-class self-assessment report, students may be able to see each other’s reports
         3. For ATAR, students will not see each other’s reports unless they actively disclose them.
-    - Are parents and researchers visible?
+    - Are parents and researchers able to view?
         1. It depends on the school, different schools have different reporting sharing standards
         2. The client does not encourage schools to print out the report for parents to read because the report is designed for teachers

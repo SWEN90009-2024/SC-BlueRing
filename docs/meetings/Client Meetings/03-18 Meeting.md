@@ -47,5 +47,5 @@
 ### Next Steps
 - Brainstorming possible solutions.
 - Defining roles and responsibilities.
-- Completion of Sprint 1 due by this Friday at 17:00.
+- Completion of Sprint 1 is due by this Friday at 17:00.
 
