@@ -44,6 +44,6 @@
 
 ### ** Progress display and stand-up meeting **
 
-1. Hao and Sean showed the personas and motivational model we have finished
+1. Hao and Aoxiang showed the personas and motivational model we have finished
 2. team members showed what they have done during Sprint 2 
 3. mentor gave some suggestion about team collaboration (more communication and more fair contribution)

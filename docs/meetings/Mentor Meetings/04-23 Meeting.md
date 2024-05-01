@@ -44,7 +44,7 @@
         1. Visualize the options and attach examples to help teachers better understand and increase speed and accuracy.
         2. Slider form
         3. Pick and group format, matrix table format: It is convenient for teachers to make horizontal comparisons between students and complete the assessment of all students on the same topic at one time
-2. Sean and the mentor confirm preferred and feasible solutions, while Hao provides additional explanations on subteam 2’s ideas
+2. Aoxiang and the mentor confirm preferred and feasible solutions, while Hao provides additional explanations on subteam 2’s ideas
 3. Mentor’s ideas and suggestions
     - We can use AI tools such as Midjourney to help with visualization and generate images that are highly relevant to the options.
     - Mentor prefers visual solutions and matrix table solutions
@@ -52,7 +52,7 @@
 
 ### **Possible solution 2**
 
-1. Hao introduces the idea of subteam 1 and Sean provides additional explanations
+1. Hao introduces the idea of subteam 1 and Aoxiang provides additional explanations
     
     Solve the problem of possible deviations between teachers in assessing students’ comprehensive abilities
     
