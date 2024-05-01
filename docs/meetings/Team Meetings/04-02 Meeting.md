@@ -35,7 +35,7 @@
     - Highlight the need for personas to be a blend of typical and unique traits to make them relatable yet insightful.
     - Brainstorming session on potential personas, considering various demographics, psychographics, and user behaviors.
 
-### Action items
+### Action Items
 - Each team member to conduct individual research on user profiles and report findings. (All members)
 - Collaboration on combining research insights to create comprehensive personas. (All members)
 - Development of draft personas for review and refinement in the next meeting. (Hao Guan)

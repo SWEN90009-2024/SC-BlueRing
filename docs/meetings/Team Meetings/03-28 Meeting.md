@@ -25,8 +25,8 @@
     - We need to confirm the system's algorithms and whether we need to make improvements to the existed system with Client.
 
 2. **Come up with possible solutions**
-    -*To address issues of subjectivity or lack of sandardization in teachers' grading:*
-    - Hovering the mouse over an option for several seconds will display specific standards or examples for that option, such as quantifiable or observable data like images, number of times spoken, etc.
+    -*To address issues of subjectivity or and lack of standardization in teachers' grading:*
+    - Hovering the mouse over an option for several seconds will display specific standards or criteria for that option, such as quantifiable or observable data like images, number of times spoken, etc.
     - Rank students based on the grades assigned by each teacher to all students, and then reassign grades accordingly.
     - Establish student self-assessment (not through direct questioning, but by setting up game scenarios to assign scores based on students' choices), which is then weighted with the teachers' grades for calculation.
       
@@ -36,9 +36,9 @@
     -  Use a more rational pie chart to comprehensively reflect students' abilities.
 
 ### Next Steps
-- Summary the above information and send an email to our mentor therefore ask questions to our client (Hao Guan).
-- Start to thinking about persona and user stories. (All members)
-- Two personas build by each subteam and due by Next Monday 23:59. (All members)
+- Summarize the above information and send an email to our mentor therefore ask questions to our client (Hao Guan).
+- Start thinking about persona and user stories. (All members)
+- Two personas to be built by each subteam and due by Next Monday 23:59. (All members)
 
 ### Task Assignments and Deadlines
 - Please refer to the following website:https://trello.com/invite/b/MNFMWyry/ATTI9e006ff63296b0ddd0990eff1d4a0b6fA6FF73B0/sc-bluering

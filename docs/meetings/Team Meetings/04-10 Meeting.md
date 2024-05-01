@@ -53,7 +53,7 @@
 
 ### Next Steps
 - Review and integrate feedback into the ongoing development process.
-- Complete the writing of user stories by the DDL(2024.4.12).
+- Complete the writing of user stories by the deadline(2024.4.12).
 - Plan for the next sprint.
 
 ### Task Assignments and Deadlines

@@ -23,18 +23,18 @@
 
 1. **Roles and Responsibilities**
     - Product Owner is responsible for communicating with Mentor and Client.
-    - Product Owner and Scrum Master are mainly responsible for report our team situation to Mentor.
+    - Product Owner and Scrum Master are mainly responsible for report our team's situation to the Mentor.
       
 2. **Weekly Meeting with Mentor**
-    - Every tuesday 5:00 - 6:00 pm.
+    - Every Tuesday 5:00 - 6:00 pm.
     - In the meeting, we will report to mentor and show our work.
     - Mentor shows how to schedule period meetings via Zoom.
 
-3. **Recieve documents from Mentor**
+3. **Receieve documents from Mentor**
     - The documents about the project sent to Product Owner's email.
-    - Product Owner need to share the document with team.
+    - Product Owner needs to share the document with team.
 
-4. **Ask client question**
+4. **Ask client questions**
     - Product Owner summarize the questions.
     - Send to Mentor first, then Mentor will ask client for feedback and answer.
 
@@ -46,9 +46,9 @@
     - Which age group?
 
 ### Next Steps
-- Schedule period meetings with Mentor (Hao Guan).
+- Schedule periodic meetings with Mentor (Hao Guan).
 - Set up the team meeting to brainstorm. (Tori Li)
-- Keep update trello board. (Aoxiang Xiao)
+- Keep updating trello board. (Aoxiang Xiao)
 
 ### Task Assignments and Deadlines
 - Please refer to the following website:https://trello.com/invite/b/MNFMWyry/ATTI9e006ff63296b0ddd0990eff1d4a0b6fA6FF73B0/sc-bluering

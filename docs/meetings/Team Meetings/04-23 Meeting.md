@@ -41,12 +41,12 @@
         - i.e After each of the five teachers has individually assessed a student, the evaluation process will proceed following collective re-evaluation by all five teachers together.
         - OR we can adapated the method to calculate i.e (R1+...+R5) / 5 
     - Enhance platform usability through interface improvements
-        1. Font Size (Font size need to be big)
+        1. Font Size (Font need to be big)
         2. Interface Clarity (Users may experience confusion regarding how to create a student upon initiating the application).
         3. Auto adjust, capable on mutiple platform(phone, tablet, laptop)
         4. Adjust the word use in multiple choice, such as natural, heavy.
-    - Consider increaseing sample sizes and teacher involvement to enhance accuracy
-    - Establish consensus on result weighting and discussion processes among teachers.
+    - Consider increasing sample sizes and teacher involvement to enhance accuracy
+    - Establish consensus on weighting of result and discussion processes among teachers.
 
 
 ### Next Steps

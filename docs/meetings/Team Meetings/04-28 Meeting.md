@@ -35,15 +35,15 @@
 
 2. **Solution to problem**
     - Revised Workflow and Role Assignments:
-      Starting from Sprint 3, Mingchong Li will serve as the Scrum Master, and Hao Guan will be the Product Owner.
+      Starting from Sprint 3, Mingchong Li will serve as the Scrum Master, while Hao Guan will take on the role of Product Owner.
     - Task Generation at Sprint Start:
-      At the beginning of each sprint, we will hold a focused discussion to analyze the project and generate all possible tasks.
-    - Task Detailing and Assignment:
-      The Scrum Master will write detailed task descriptions and conduct meetings to assign tasks.
+      At the beginning of each sprint, we will conduct a focused discussion to analyze the project and generate all possible tasks.
+    - Task Detailing and Assignment: 
+      The Scrum Master will be responsible for writing detailed task descriptions and conducting meetings to assign tasks.
     - Task Verification at Sprint End:
-      At the end of the sprint, the Product Owner will verify all tasks and move the records previously placed in the "Done" module to the corresponding sprint section.
+      At the end of the sprint, the Product Owner will verify all tasks and move the records previously placed in the "Done" module to the corresponding section for that sprint.
 
-3. **Assign tasks**
+1. **Assign tasks**
     - Improvements on current UI: Tori, Aoxiang
     - More info provided to each questions: Yutian, Jianqiao, Danning
     - Assessment weighting(importance quiz): Hao, Haocheng
