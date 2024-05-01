@@ -13,3 +13,11 @@ The Mentor Feedbacks document will keep a record of the feeds from mentor in eac
 3. All documents in each sprints should be living documents, no need for folder such as Sprint1 or Sprint2 folders.
 4. The responsibilities and roles need to be documented in a clearer way.
 5. Mentor will try to get team the access to RUBY, and will contact the develop team to ask for a test version of the platform for team research purpose.
+
+### Feedbacks - 23 April Meeting
+1. We can use AI tools such as Midjourney to help with visualization and generate images that are highly relevant to the options.
+2. Mentor prefers visual solutions and matrix table solutions.
+3. Mentor agrees that our solution 1 can be used in the design of sprint3.
+4. It is recommended to present the solution 2 in the form of a flow chart by using Figma so that customers can better understand it.
+5. For low-fidelity prototypes, it is recommended to use a hand-drawn effect and annotate the function of each interface element.
+6. Overall recognition of the proposed ideas and suggestions to continue improving the details.
