@@ -14,7 +14,7 @@ The Mentor Feedbacks document will keep a record of the feeds from mentor in eac
 4. The responsibilities and roles need to be documented in a clearer way.
 5. Mentor will try to get team the access to RUBY, and will contact the develop team to ask for a test version of the platform for team research purpose.
 
-### Feedbacks - 9 April Meeting
+### Feedbacks - 16 April Meeting
 1. Mentor said that we should make a document for retrospective and it should contain the collaoration and participation of all 10 members
 2. Mentor mentioned that we could have a event for ice-breaking
 3. Mentor mentioned we need to share our outcomes with her and ask her for the resources and help we need
