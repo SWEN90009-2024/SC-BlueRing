@@ -14,6 +14,13 @@ The Mentor Feedbacks document will keep a record of the feeds from mentor in eac
 4. The responsibilities and roles need to be documented in a clearer way.
 5. Mentor will try to get team the access to RUBY, and will contact the develop team to ask for a test version of the platform for team research purpose.
 
+### Feedbacks - 9 April Meeting
+1. Mentor said that we should make a document for retrospective and it should contain the collaoration and participation of all 10 members
+2. Mentor mentioned that we could have a event for ice-breaking
+3. Mentor mentioned we need to share our outcomes with her and ask her for the resources and help we need
+4. Mentor pointed that Hao cannot be scrum master and product owner at the same time, so we need to find another product owner
+5. Mentor mentioned that we should turn on our camera when meeting
+
 ### Feedbacks - 23 April Meeting
 1. We can use AI tools such as Midjourney to help with visualization and generate images that are highly relevant to the options.
 2. Mentor prefers visual solutions and matrix table solutions.
