@@ -46,24 +46,23 @@ Supervisor: Afsana Imam
 
 Below is a detailed outline of the repository's structure, providing a clear overview of the organization of documents, tests, prototypes, UI assets, and data samples.
 
+- `data samples/` - Provides documents and data necessary to simulate or demonstrate the prototype, encompassing all inputs required for effective testing and presentation.
+
 - `docs/` - Contains all documentation files related to the project. Documentation is organized into subfolders for better structuring and ease of access.
-- `docs/meetings` - Contains the client meeting, internal team meeting and mentor meeting recording & meeting notes, also the mentor feedback is included.
-- `docs/Project Background.md` - Contains the project background include description of the project that accurately and adequately defines the problem and outlines the scope of the solution.
-- `docs/Requirements Elicitation.md` - Contains our requirements elicitation methods and roles/responsibilities during the meeting with industry partner.
-- `docs/Roles and Responsibilities.md` - Contains our roles and responsibilities with our team.
-- `docs/before personas` - Contains the evidences that the process to create personas has been followed, include DBF list and Motivational model.
-- `docs/personas` - Contains five personas based on the research done by our team and the discussion with the industry partners, strictly follow the file format required by the unimelb.
-- `docs/user story` - Contains user stroies completely cover the capabilities required by the client, strictly follow the file format required by the unimelb.
-- `docs/sprint review.md` - Contains the sprint review for each sprint after sprint finished.
-- `docs/sprint retrospective.md` - Contains the sprint retrospective for each sprint after sprint finished.
-- `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
+  - `docs/agile ceremonies` - Contains sprint reviews and sprint retrospective according to each sprint.
+  - `docs/meetings` - Contains the client meeting, internal team meeting and mentor meeting recording & meeting notes, also the mentor feedback is included.
+    - `docs/persona-justification` - Contains the evidences that the process to create personas has been followed, include DBF list and Motivational model.
+  - `docs/personas` - Contains five personas based on the research done by our team and the discussion with the industry partners, strictly follow the file format required by the unimelb.
+  - `docs/Project Background.md` - Contains the project background include description of the project that accurately and adequately defines the problem and outlines the scope of the solution.
+  - `docs/Requirements Elicitation.md` - Contains our requirements elicitation methods and roles/responsibilities during the meeting with industry partner.
+  - `docs/Roles and Responsibilities.md` - Contains our roles and responsibilities with our team.
+  - `docs/user story` - Contains user stories completely cover the capabilities required by the client, strictly follow the file format required by the unimelb.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
   - `low fidelity/` - Includes low-fidelity prototypes such as initial sketches, wireframes, and basic mockups.
   - `high fidelity/` - Contains high-fidelity prototypes, including detailed screens and source files that closely resemble the final product.
 
+- `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
 - `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAP.
-
-- `data samples/` - Provides documents and data necessary to simulate or demonstrate the prototype, encompassing all inputs required for effective testing and presentation.
 
 - `README.md` - Offers an up-to-date overview of the project repository, including its structure and the contents of each directory. The README file is essential for new contributors, providing them with all the information needed to understand and participate in the project effectively.
