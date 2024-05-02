@@ -11,7 +11,7 @@
 1. **Project Concept and Background**:
    - The project concept and background were effectively communicated, providing a clear understanding of the initiative. 
    - The problem statement lacked clarity within the project background, making it difficult to discern the core issue being addressed.
-   - **Action**: It's essential to clearly articulate the problem, the need for a solution, and outline the proposed solution in 3 to 4 lines for better comprehension.
+   - **Action**: It is essential to clearly articulate the problem, the need for a solution, and outline the proposed solution in 3 to 4 lines for better comprehension.
 
 2. **Target Audience Identification**:
    - The target audience was identified but needs further specificity to enhance the project's focus and alignment with stakeholders' needs.
@@ -43,7 +43,7 @@
    - Project elicitation and requirements gathering have been strengthened, with a clear structure addressing project issues, goals, and challenges.
 
 5. **Streamlined Meeting Processes**:
-   - Meeting documentation has been enhanced, with diligent recording of meeting notes and proactive efforts to seek client consent.
+   - Meeting documentation has been enhanced, with diligently recording of meeting notes and proactive efforts to seek client consent.
 
 6. **Enhanced GitHub Repository**:
    - The GitHub repository has been restructured for improved organization.
@@ -53,7 +53,7 @@
    - Tasks discussed in meetings now have clear assignees, due dates, and are consistently tracked.
 
 8. **Comprehensive Progress Tracking**:
-   - More meetings, including mentor meetings, are now documented, enabling comprehensive progress tracking.
+   - More meetings including mentor meetings, are now documented, enabling comprehensive progress tracking.
 
 ## Conclusion
 

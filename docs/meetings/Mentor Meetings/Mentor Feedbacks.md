@@ -33,5 +33,5 @@ The Mentor Feedbacks document will keep a record of the feedback from mentor in 
 1. Mentor suggests sending project overview and user stories to Richard and Jason for feedback.
 2. Mentor advises emailing the client for a reply within a day.
 3. Client feedback should be incorporated and validated in user case stories.
-4. We also need to make interactive functions in the low-fidelity model by using Figma.
+4. We also need to make interactive functions in the low-fidelity prototypes by using Figma.
 5. Mentor emphasize the importance of communication, teamwork and respect within agile teams.

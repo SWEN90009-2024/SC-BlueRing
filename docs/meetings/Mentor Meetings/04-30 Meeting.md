@@ -37,11 +37,11 @@
     - Handwriting alone is insufficient for conveying ideas; usability testing required for validation.
     - Client feedback should be incorporated and validated in user case stories.
 3. **Mentor shares insights on communication and collaboration within agile teams**
-    - Mentor used her own personal experience as an example to emphasize the importance of communication, teamwork and respect within agile teams.
+    - Mentor used her own personal experience as an example to emphasize the importance of communication, teamwork, and respect within agile teams.
     - Mentor calls on everyone on the team to contribute more and encourages the team to overcome challenges together.
 4. **Role change**
     - Product owner will continue to be held by Hao Guan, while Mingchong Li will take on the role of Scrum Master.
-    - Mentors have documented the role change.
+    - The mentors have documented the role change.
 5. **Sprint 2 feedback discussion**
     - Team members discuss the problems and deficiencies in sprint 2 feedback with the mentor.
 6. **Stand up meeting**

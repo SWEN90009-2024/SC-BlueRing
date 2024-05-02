@@ -17,22 +17,22 @@
 
 1. **Improved File Management and Communication**: 
    - **Action**: Implement a structured approach to Git file management and folder naming conventions as highlighted during the mentor's feedback.
-   - **Assigned to**: Haocheng Wang, Aoxiang Xiao
+   - **Assigned to**: Haocheng Wang and Aoxiang Xiao
    - **Due by**: End of Sprint 2
 
 2. **Enhanced Team Interaction**:
-   - **Action**: Schedule weekly check-ins beyond regular scrum meetings to foster more open communication among team members. (onsite)
+   - **Action**: Schedule weekly onsite check-ins beyond regular scrum meetings to foster more open communication among team members. (onsite)
    - **Assigned to**: Tori Li
    - **Due by**: End of Sprint 2
 
 3. **Updated and Accurate Requirements**:
-   - **Action**: Ensure continuous updates to the project requirements document, incorporating feedback from stakeholders and changes in project scope promptly.
+   - **Action**: Ensure the project requirements document is continuously updated, incorporating feedback from stakeholders and changes in project scope promptly.
    - **Assigned to**: Aoxiang Xiao and Yutian Fan
    - **Due by**: End of Sprint 2
 
-4. **Role Reassignment and QA Implementation**:
+4. **Role Reassignment and QA(Quality Assurance) Implementation**:
    - **Action**: Reassign roles to align better with team strengths and project needs, including the appointment of two new QAs.
-   - **Assigned to**: Hao Guan, Aoxiang Xiao, and Haocheng Wang
+   - **Assigned to**: Hao Guan, Aoxiang Xiao and Haocheng Wang
    - **Due by**: End of Sprint 2
 
 ## Conclusion

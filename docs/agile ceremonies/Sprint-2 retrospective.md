@@ -18,15 +18,15 @@
     - We were able to optimise the documents quickly based on the feedback from the last sprint. In sprint 2, we updated the readme file, project background, and requirements elicitations file.
     - We enhanced communication within the group and among the mentors. We created a discord channel to archive documents and notifications, and established times for weekly mentor meetings, brainstorming sessions, and regular meetings.
 2. **Discussion of Challenges**: Identification of challenges faced during the sprint, including specific incidents that could be improved.
-    - An area we can improve in sprint 2 is the communication between the 10 people. Although the collaboration between the two sub-teams was very efficient, there could be information gaps.
+    - An area we can improve in sprint 2 is the communication between the ten people. Although the collaboration between the two sub-teams was very efficient, there could be information gaps.
     - The process of assigning tasks could be optimised and the management of the Trello Board could be improved.
 3. **Proposal of Solutions**: Suggestions for practical solutions to the challenges identified, aimed at refining workflows and enhancing team dynamics.
     - Continuously adjust the git file naming and structure based on feedback from the mentor team on sprint 2.
-    - The solution to optimise the allocation of tasks could be to let the scrum master of the team allocate tasks in a regular meeting and let the team members make their choices.
+    - The solution to optimise the allocation of tasks could be to let the scrum master of the team allocate tasks in a regular meeting and let the team members choose their tasks.
     - Arrange the agenda in advance, make full use of the time slots of weekly meetings and tutorials to ensure stable meeting outputs.
 4. **Previous sprint Improvement Effect Tracking**
     - In the last sprint retrospective meeting, we decided that we should implement a structured approach to Git file management and folder naming conventions. In sprint 2, we optimised the Git file structure and naming convention.
-    - In the last sprint retrospective meeting, we decided that we should enhance team interaction. In sprint 2, we kept attendance records for the meetings and all members of the group were able to attend on time, except for those who had class conflicts.
+    - In the last sprint retrospective meeting, we decided that we should enhance team interaction. In sprint 2, we kept attendance records for the meetings and all members of the group were able to attend on time, except for those who had conflicts due to classes.
 
 ## Conclusion
 
