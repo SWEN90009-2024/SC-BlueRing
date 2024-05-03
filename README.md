@@ -22,6 +22,10 @@ Supervisor: Afsana Imam
 - Based on client's feedback, we have uploaded two files to the [user story](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/user%20story) subfolder, one is [User Stories confirmed with Client](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/User%20Stories%20confirmed%20with%20Client.pdf)(user stories that are updated after being confirmed by the customer), and another one is [User Story Feedback and confirmation From Client](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/User%20Story%20Feedback%20and%20confirmation%20From%20Client.pdf)(client's feedback and confirmation of user stories).
 - For sprint3, we have uploaded all meetings within sprint 3 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
 - Based on sprint3 feedback, we have updated the [Mentor feedbacks](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) with the advice from the mentor meeting.
+- For sprint3, we created low fidelity prototypes in both [hand drawn](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/low%20fidelity/Handdrawn_low_fi_prototype.pdf) and (Figma)[https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/low%20fidelity/Low%20fidelity%20prototype%20%E2%80%93%20figma.pdf]
+- For sprint3, to generate usability test taks, we [anylized the user stories](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Task%20scenarios.pdf), and prepared [5 tasks/scenarios](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/tests/usability%20test/low%20fidelity/Usability%20test%20-%20to%20clients%3A%20notes.pdf) for usability test.
+- For sprint3, during the client meeting, we have taken [notes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Client%20Meetings/05-03%20Meeting.md), and had a further [analysis of future plan](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/tests/usability%20test/low%20fidelity/Usability%20Test%20-%20feedbacks-actions.pdf).
+- For sprint3, we have written the [sprint review](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/agile%20ceremonies/Sprint-3%20review.md) for sprint1 and the future sprint review will be update in this file as well.  
 - For sprint3, we have renamed all meeting notes in [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) to present them in a clear time sequential order.
 - For sprint3, We have conducted a typo check and corrected errors in all the documents that have been uploaded.
   
@@ -69,10 +73,13 @@ Below is a detailed outline of the repository's structure, providing a clear ove
   - `docs/user story` - Contains user stories completely cover the capabilities required by the client, strictly follow the file format required by the unimelb. It also contains one user story feedback and confirmation from client, which help us refine some of the errors and details in the user story.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
-  - `low fidelity/` - Includes low-fidelity prototypes such as initial sketches, wireframes, and basic mockups.
+  - `low fidelity/` - Includes low-fidelity prototypes such as initial sketches, Figama(with interactions)
   - `high fidelity/` - Contains high-fidelity prototypes, including detailed screens and source files that closely resemble the final product.
 
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
+  - `low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks and futuren actions.
+  - `high fidelity/` - Contains high-fidelity usability test related files.
+
 - `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAP.
 
 - `README.md` - Offers an up-to-date overview of the project repository, including its structure and the contents of each directory. The README file is essential for new contributors, providing them with all the information needed to understand and participate in the project effectively.
