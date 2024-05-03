@@ -67,7 +67,7 @@ Below is a detailed outline of the repository's structure, providing a clear ove
 - `data samples/` - Provides documents and data necessary to simulate or demonstrate the prototype, encompassing all inputs required for effective testing and presentation.
 
 - `docs/` - Contains all documentation files related to the project. Documentation is organized into subfolders for better structuring and ease of access.
-  - `docs/agile ceremonies` - Contains sprint reviews and sprint retrospective according to each sprint.
+  - `docs/agile ceremonies` - Contains sprint reviews and sprint retrospective according to each sprint.(Sprint plannings and Sprint stand-ups are included in the Team Meetings)
   - `docs/meetings` - Contains the client meeting, internal team meeting and mentor meeting recording & meeting notes, also the mentor feedback is included.
     - `docs/persona-justification` - Contains the evidences that the process to create personas has been followed, include DBF list and Motivational model.
   - `docs/personas` - Contains five personas based on the research done by our team and the discussion with the industry partners, strictly follow the file format required by the unimelb.
