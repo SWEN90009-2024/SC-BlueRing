@@ -28,6 +28,7 @@ Supervisor: Afsana Imam
 - For sprint3, we have written the [Sprint Review](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/agile%20ceremonies/Sprint-3%20review.md) and [Sprint 3 Retrospective](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/agile%20ceremonies/Sprint-3%20retrospective.md) for sprint3 and the future sprint review will be update in this file as well.  
 - For sprint3, we have renamed all meeting notes in [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) to present them in a clear time sequential order.
 - For sprint3, We have conducted a typo check and corrected errors in all the documents that have been uploaded.
+- For sprint3, we have changed [Roles and Responsibilities](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Roles%20and%20Responsibilities.md), Mingchong Li is our new Scrum Master.
   
 
 ## Changelogs for sprint2
