@@ -16,6 +16,14 @@ Industry partner: Narelle English
 
 Supervisor: Afsana Imam
 
+## Changelogs for sprint3
+- Based on sprint2 feedback, we created a new folder named [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) in the [docs](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs) directory and uploaded the reviews and retrospectives for sprint1 and sprint2 that were not previously uploaded.
+- Based on sprint2 feedback, we have made corresponding modifications to the [Repository Structure](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/README.md#repository-structure) section of the [README](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/README.md) according to the format changes in the GitHub repository.
+- For sprint3, we have uploaded all meetings within sprint 3 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
+- Based on sprint3 feedback, we have updated the [Mentor feedbacks](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) with the advice from the mentor meeting.
+- For sprint3, we have renamed all meeting notes in [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) to present them in a clear time sequential order.
+- For sprint3, We have conducted a typo check and corrected any errors in all the documents that have been uploaded.
+
 ## Changelogs for sprint2
 
 - Based on sprint1 feedback, we have removed sprint1 subfolder.
