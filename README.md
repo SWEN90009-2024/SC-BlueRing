@@ -29,6 +29,7 @@ Supervisor: Afsana Imam
 - For sprint3, we have renamed all meeting notes in [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) to present them in a clear time sequential order.
 - For sprint3, We have conducted a typo check and corrected errors in all the documents that have been uploaded.
 - For sprint3, we have changed [Roles and Responsibilities](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Roles%20and%20Responsibilities.md), Mingchong Li is our new Scrum Master.
+- For sprint3, we met with our client to do usability testing and recorded [Usability Test Video](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/tests/usability%20test/low%20fidelity/Usability%20Test%20Video.mp4)
   
 
 ## Changelogs for sprint2
