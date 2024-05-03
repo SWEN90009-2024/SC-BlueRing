@@ -77,7 +77,7 @@ Below is a detailed outline of the repository's structure, providing a clear ove
   - `high fidelity/` - Contains high-fidelity prototypes, including detailed screens and source files that closely resemble the final product.
 
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
-  - `low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks and futuren actions.
+  - `low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks from client and action plan to address comments/issues as part of the high fidelity prototype.
   - `high fidelity/` - Contains high-fidelity usability test related files.
 
 - `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAP.
