@@ -1,10 +1,6 @@
 # Sprint 2 Retrospective
 
----
-
-## **Participants**
-
----
+## Participants
 
 - **Product Owner**: Hao Guan
 - **Scrum Master**: Tori Li
@@ -12,26 +8,35 @@
 
 ## Agenda and Key Outcomes
 
----
+1. **Review of Practices and Outcomes**: 
+   - **Successes**:
+     - Optimized documentation quickly based on feedback from the previous sprint, including updates to the README file, project background, and requirements elicitation file.
+     - Enhanced communication within the team and with mentors through the creation of a Discord channel for document archiving and notifications, and established weekly mentor meetings, brainstorming sessions, and regular meetings.
+   - **Areas for Improvement**:
+     - While collaboration between sub-teams was efficient, there were information gaps due to the challenges of coordinating among ten team members.
 
-1. **Review of Practices and Outcomes**: Assessment of team practices and the outcomes from the previous sprint, noting successes and areas for improvement.
-    - We were able to optimise the documents quickly based on the feedback from the last sprint. In sprint 2, we updated the readme file, project background, and requirements elicitations file.
-    - We enhanced communication within the group and among the mentors. We created a discord channel to archive documents and notifications, and established times for weekly mentor meetings, brainstorming sessions, and regular meetings.
-2. **Discussion of Challenges**: Identification of challenges faced during the sprint, including specific incidents that could be improved.
-    - An area we can improve in sprint 2 is the communication between the ten people. Although the collaboration between the two sub-teams was very efficient, there could be information gaps.
-    - The process of assigning tasks could be optimised and the management of the Trello Board could be improved.
-3. **Proposal of Solutions**: Suggestions for practical solutions to the challenges identified, aimed at refining workflows and enhancing team dynamics.
-    - Continuously adjust the git file naming and structure based on feedback from the mentor team on sprint 2.
-    - The solution to optimise the allocation of tasks could be to let the scrum master of the team allocate tasks in a regular meeting and let the team members choose their tasks.
-    - Arrange the agenda in advance, make full use of the time slots of weekly meetings and tutorials to ensure stable meeting outputs.
-4. **Previous sprint Improvement Effect Tracking**
-    - In the last sprint retrospective meeting, we decided that we should implement a structured approach to Git file management and folder naming conventions. In sprint 2, we optimised the Git file structure and naming convention.
-    - In the last sprint retrospective meeting, we decided that we should enhance team interaction. In sprint 2, we kept attendance records for the meetings and all members of the group were able to attend on time, except for those who had conflicts due to classes.
+2. **Discussion of Challenges**: 
+   - **Communication Gaps**:
+     - Improve communication between all team members to avoid information gaps.
+   - **Task Assignment and Management**:
+     - Optimize the process of task assignment and improve the management of the Trello Board.
+
+3. **Proposal of Solutions**: 
+   - **Git File Management**:
+     - Continue adjusting the git file naming and structure based on ongoing feedback.
+   - **Task Allocation**:
+     - Allow the Scrum Master to allocate tasks during regular meetings, enabling team members to choose their tasks based on personal strengths and project needs.
+   - **Meeting Management**:
+     - Arrange agendas in advance and fully utilize time slots for weekly meetings and tutorials to ensure stable and productive outputs.
+
+4. **Previous Sprint Improvement Effect Tracking**
+   - **Git Management**:
+     - Implemented a structured approach to Git file management and folder naming conventions as planned; this has been optimized in Sprint 2.
+   - **Team Interaction**:
+     - Enhanced team interaction with full attendance at meetings, except for unavoidable class conflicts, maintaining engagement and participation.
 
 ## Conclusion
 
----
-
-Reflecting on the outcomes of Sprint 2's retrospective, it's evident that our team's proactive approach to addressing challenges and implementing solutions has laid a strong foundation for the upcoming sprint. By refining our practices in Git file management, fostering better team communication, updating project requirements, and streamlining task assignments, we've set ourselves up for greater productivity and improved outcomes. 
+Reflecting on the outcomes of Sprint 2's retrospective, it is evident that our team’s proactive approach to addressing challenges and implementing solutions has laid a strong foundation for the upcoming sprint. By refining our practices in Git file management, fostering better team communication, updating project requirements, and streamlining task assignments, we've set ourselves up for greater productivity and improved outcomes.
 
 Our dedication to ongoing improvement is underscored by our systematic approach to addressing feedback and overcoming obstacles, ensuring that each sprint builds upon the successes of the previous ones and remains aligned with our project objectives.
