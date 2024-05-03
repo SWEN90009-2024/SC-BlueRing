@@ -64,7 +64,7 @@ Below is a detailed outline of the repository's structure, providing a clear ove
   - `docs/Project Background.md` - Contains the project background include description of the project that accurately and adequately defines the problem and outlines the scope of the solution.
   - `docs/Requirements Elicitation.md` - Contains our requirements elicitation methods and roles/responsibilities during the meeting with industry partner.
   - `docs/Roles and Responsibilities.md` - Contains our roles and responsibilities with our team.
-  - `docs/user story` - Contains user stories completely cover the capabilities required by the client, strictly follow the file format required by the unimelb.
+  - `docs/user story` - Contains user stories completely cover the capabilities required by the client, strictly follow the file format required by the unimelb. It also contains one user story feedback and confirmation from client, which help us refine some of the errors and details in the user story.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
   - `low fidelity/` - Includes low-fidelity prototypes such as initial sketches, wireframes, and basic mockups.
