@@ -47,14 +47,14 @@
     9. There is an overlapping problem for some information shown
     10. The overall design of prototype components and UI need to be redesigned to avoid confusion
 - Reconsideration of user stories' priority:
-    1. E1.2 - receive accurate reports -> Must Have
-    2. E1.3 - have access to report about student's mental health -> Won't have for this stage
-    3. E1.7 - parent viewing report -> Could have, but not yet implemented(The platform is mainly for teachers)
-    4. E1.4 - academic report -> Won't have, RUBY is focusing on general abilities
-    5. E1.9 - Student receive recommendations -> Could have but not for now
-    6. E1.13 - prioritization -> Need to focus on the confidence level(reliability), Must Have
-    7. E2.5 - Security -> Should have, but out of this project's scope, not our concern
-    8. E2.6 - Visualisation -> Must Have
+    1. E1.2     - receive accurate reports -> Must Have
+    2. E1.3     - have access to report about student's mental health -> Won't have for this stage
+    3. E1.7     - parent viewing report -> Could have, but not yet implemented(The platform is mainly for teachers)
+    4. E1.4     - academic report -> Won't have, RUBY is focusing on general abilities
+    5. E1.9     - Student receive recommendations -> Could have but not for now
+    6. E1.13    - prioritization -> Need to focus on the confidence level(reliability), Must Have
+    7. E2.5     - Security -> Should have, but out of this project's scope, not our concern
+    8. E2.6     - Visualisation -> Must Have
 
 ### Next Steps
 - Improve the low-fidelity prototype based on the client's feedback                             Estimated finish date: Mostly done by 03/05, before 17:00
