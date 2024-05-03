@@ -22,7 +22,7 @@ Supervisor: Afsana Imam
 - For sprint3, we have uploaded all meetings within sprint 3 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
 - Based on sprint3 feedback, we have updated the [Mentor feedbacks](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) with the advice from the mentor meeting.
 - For sprint3, we have renamed all meeting notes in [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) to present them in a clear time sequential order.
-- For sprint3, We have conducted a typo check and corrected any errors in all the documents that have been uploaded.
+- For sprint3, We have conducted a typo check and corrected errors in all the documents that have been uploaded.
 
 ## Changelogs for sprint2
 
