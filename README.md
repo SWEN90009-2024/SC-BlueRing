@@ -12,7 +12,7 @@ Team members: Jianqiao Song, Hanying Li, Mingchong Li, Heng CHEN, Yutian Fan, Da
 
 ## Stakeholder
 
-Industry partner: Narelle English, Jason Pietzner, Richard Xu
+Industry partner: Narelle English(on leave), Jason Pietzner, Richard Xu
 
 Supervisor: Afsana Imam
 
