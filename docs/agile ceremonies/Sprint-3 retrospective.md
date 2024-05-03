@@ -20,14 +20,14 @@
       - Used the MoSCow method for priorities instead of the PERT method
 
 2. **Discussion of Challenges**:
-   **Prototype Refinement**
+   - **Prototype Refinement**
       - Low fidelity prototype needs further refinement before we transfer it into a high-fidelity prototype according to the client's feedback
-   **Team Working Efficiency**
+   - **Team Working Efficiency**
       - The team lacks a unified workspace where all team members can have access to the most up-to-date ongoing works
-   **Client Communication**
+   - **Client Communication**
       - The usability test meeting with the client was scheduled on the due date, resulting in very stressful tasks in managing & completing
 
-3. **Proposal of Solutions**: 
+4. **Proposal of Solutions**: 
    - Actively communicate with the client for the rest of the semester to ensure meetings can be scheduled at an earlier stage
    - Continuously checks client's feedback and changes the design of prototype(both low and high) to keep everything on the right track
    - Further improve the communications among team members to increase the efficiency
