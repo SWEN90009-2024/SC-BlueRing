@@ -2,7 +2,7 @@ Product Owner - Hao Guan
 * Responsible for communicating the vision of the product to the development team and stakeholders. 
 * Presents the highest-priority items from the product backlog and clarifies requirements. Collaborates with the team to set the sprint goal.
 
-Scrum Master: Tori Li  
+Scrum Master: Mingchong Li  
 * Facilitates Scrum events such as the Daily Standup, Sprint Planning, Sprint Review, and Sprint Retrospective.
 * Acts as a servant-leader, supporting the team's needs and fostering a collaborative environment
 
