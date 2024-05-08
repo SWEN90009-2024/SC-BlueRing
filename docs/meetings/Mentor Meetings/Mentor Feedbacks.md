@@ -35,3 +35,9 @@ The Mentor Feedbacks document will keep a record of the feedback from mentor in 
 3. Client feedback should be incorporated and validated in user case stories.
 4. We also need to make interactive functions in the low-fidelity prototypes by using Figma.
 5. Mentor emphasize the importance of communication, teamwork and respect within agile teams.
+
+### Feedbacks - 07 May Meeting
+1. Mentor recommended us to use Canva, Figma or PowerPoint to design the slides.
+2. Don't add too much text and long paragraphs, we can use AI tools to generate some relevant images, each slide can take 1-2 minutes.
+3. Everyone in the team should be familiar with the project in order to be prepared for the Q&A session.
+4. Describe a scenario, tell a short story to illustrate a problem, then propose a solution and reflect on the successes and challenges of the project.
