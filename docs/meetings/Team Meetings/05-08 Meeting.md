@@ -65,7 +65,7 @@
       - All members should attend the final presentation, but only some will present slides.
     - **Structure**:
       - 10-minute presentation + 2-minute Q&A
-      - At least 1-2 people per slide
+      - At least 1-2 minutes per slide
       - Usability test: video [4 minutes] + feedback + actions
       - Show all completed work
       - Handover
