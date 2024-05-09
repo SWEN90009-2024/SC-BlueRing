@@ -1,4 +1,4 @@
-# Team Meeting Notes
+# Team Meeting Notes (Sprint 3 planning meeting)
 
 ## Participants
 - Haocheng Wang
@@ -31,7 +31,7 @@
     -Emphasis on teacher-written evaluations, accounting for diverse courses and metrics per student.
 
 3. **Revised Direction**
-    - Shift towards analyzing ability for broader insights, coporate with ATART to impacting college admissions.
+    - Shift towards analyzing ability for broader insights, coporate with ATAR to impacting college admissions.
     - Consider GAT, proposal to introduce similar non-academic metrics to increase evaluation accuracy.
     - Suggestions for prototype and possible solutions, including teacher-weighted questionnaires and interactive visualization tools.
 

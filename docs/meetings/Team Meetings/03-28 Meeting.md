@@ -1,4 +1,4 @@
-# Team Meeting Notes
+# Team Meeting Notes (Sprint 2 planning meeting)
 
 ## Participants
 - Haocheng Wang

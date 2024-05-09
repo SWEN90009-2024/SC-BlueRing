@@ -1,7 +1,6 @@
-# Team Meeting with Mentor Notes
+# Team Meeting Notes
 
 ## Participants
-- Mentor: Afsana.​imam
 - Haocheng Wang
 - Tori Li
 - Aoxiang(Sean) Xiao
