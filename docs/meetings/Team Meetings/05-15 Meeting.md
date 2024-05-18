@@ -33,7 +33,7 @@
     - Confirm the unsure parts with team
     - Make test more clear
       
-4. **Check User Map**
+4. **Check User Story Map**
     - Confirm the unsure parts with team
 
 5. **Check Data Sample**
