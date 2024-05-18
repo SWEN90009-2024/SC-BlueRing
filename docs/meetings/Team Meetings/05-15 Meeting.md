@@ -41,6 +41,13 @@
     
 6. **Pick Up for Presentation**
    - Pick up who is going to do the presentation
+    
+7. **Check response from ED**
+   - Wireframe is no need for sprint4
+   - We need to do the most important user cases
+   - 
+  
+
 
 1. **Assign tasks(continue work on the following tasks)**
     - Improvements on current UI: Tori, Aoxiang
