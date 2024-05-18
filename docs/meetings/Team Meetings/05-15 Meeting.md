@@ -45,7 +45,7 @@
 7. **Check response from ED**
    - Wireframe is no need for sprint4
    - We need to do the most important user cases
-   - 
+   - User journey is no need for sprint4
   
 
 
