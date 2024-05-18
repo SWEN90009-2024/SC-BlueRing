@@ -49,7 +49,7 @@
   
 
 
-8. **Assign tasks(continue work on the following tasks)**
+8. **Assign tasks(continue work on the following tasks) + Finish all tasks before Next Monday**
     - Improvements on current UI: Tori, Aoxiang
     - More info provided to each questions: Yutian, Jianqiao, Danning
     - Assessment weighting(importance quiz): Hao, Haocheng
