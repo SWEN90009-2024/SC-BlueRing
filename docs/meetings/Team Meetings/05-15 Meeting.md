@@ -32,11 +32,15 @@
 3. **Check Acceptance Tests**
     - Confirm the unsure parts with team
     - Make test more clear
-
       
 4. **Check User Map**
     - Confirm the unsure parts with team
 
+5. **Check Data Sample**
+   - Confirm the unsure parts with team
+    
+6. **Pick Up for Presentation**
+   - Pick up who is going to do the presentation
 
 1. **Assign tasks(continue work on the following tasks)**
     - Improvements on current UI: Tori, Aoxiang
