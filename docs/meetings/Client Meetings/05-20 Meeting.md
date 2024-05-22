@@ -16,7 +16,7 @@
 ## Meeting Summary
 
 ### Notes Compiled By
-- Haocheng Wang
+- Danning Feng
 
 ### Meeting Activities
 
@@ -54,5 +54,5 @@
 7. Avoid potential offense by carefully implementing images in tutorials.
 8. Discuss using images to enhance prototypes while being mindful of potential issues.
 9. Collect feedback on various report formats and their usefulness to teachers.
-10. Consider using collaboration tools like Slack and Asana for student projects.
+
 
