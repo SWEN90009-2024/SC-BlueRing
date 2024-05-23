@@ -16,8 +16,9 @@ Industry partner: Narelle English(on leave), Jason Pietzner, Richard Xu
 
 Supervisor: Afsana Imam
 
-## Changelogs for sprint3
-
+## Changelogs for sprint4
+- For sprint4, we uploaded all meetings within sprint 3 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
+- 
 
 ## Changelogs for sprint3
 - Based on sprint2 feedback, we created a new folder named [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) in the [docs](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs) directory and uploaded the reviews and retrospectives for sprint1 and sprint2 that were not previously uploaded.
