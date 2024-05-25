@@ -17,6 +17,7 @@ Industry partner: Narelle English(on leave), Jason Pietzner, Richard Xu
 Supervisor: Afsana Imam
 
 ## Changelogs for sprint4&5
+- - For sprint4&5, we uploaded sprint 4&5 retrospetive to the [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) subfolder.
 - For sprint4&5, we uploaded all meetings within sprint 4&5 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
 - For sprint4&5, we uploaded Acceptance criterias and Acceptance Tests to the [tests](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/tests) folder.
 - For sprint4&5, we uploaded sprint reviews and retrospectives to the [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) folder.
