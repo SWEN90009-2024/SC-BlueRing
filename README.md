@@ -18,9 +18,9 @@ Supervisor: Afsana Imam
 
 ## Changelogs for sprint4&5
 - For sprint4&5, we uploaded all meetings within sprint 4&5 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
-- For sprint4&5, we uploaded Acceptance criterias and Acceptance Tests to the [tests](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/tests)folder.
-- For sprint4&5, we uploaded sprint reviews and retrospectives to the [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies)folder.
-- 
+- For sprint4&5, we uploaded Acceptance criterias and Acceptance Tests to the [tests](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/tests) folder.
+- For sprint4&5, we uploaded sprint reviews and retrospectives to the [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) folder.
+- For sprint4&5, we uploaded [Data sample](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/data%20samples/Data%20Sample.pdf) to the Data samples folder.
 
 ## Changelogs for sprint3
 - Based on sprint2 feedback, we created a new folder named [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) in the [docs](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs) directory and uploaded the reviews and retrospectives for sprint1 and sprint2 that were not previously uploaded.
