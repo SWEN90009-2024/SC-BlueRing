@@ -84,15 +84,15 @@ Below is a detailed outline of the repository's structure, providing a clear ove
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
   - `prototypes/low fidelity/` - Includes low-fidelity prototypes such as initial handdrawn sketches, Figma
-  - `prototypes/high fidelity/` - Contains high-fidelity prototypes, including detailed screens and source files(edit mode and prototype mode) that closely resemble the final product.
+  - `prototypes/high fidelity/` - Contains high-fidelity prototypes, including prototype present and source files(edit mode and prototype mode) that closely resemble the final product.
 
-- `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
+- `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAS.
   - `tests/usability test/`
     - `tests/usability test/low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks from client and action plan to address comments/issues as part of the high fidelity prototype.
     - `tests/usability test/high fidelity/` - Contains high-fidelity usability test related files.
   - `tests/Acceptance Criterias.pdf` - Offers some acceptance criterias for our project.
   - `tests/Acceptance Tests.pdf` - Offers some acceptance tests for our project.
 
-- `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAP.
+- `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAS.
 
 - `README.md` - Offers an up-to-date overview of the project repository, including its structure and the contents of each directory. The README file is essential for new contributors, providing them with all the information needed to understand and participate in the project effectively.
