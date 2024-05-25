@@ -24,7 +24,7 @@ Supervisor: Afsana Imam
 - For sprint4&5, we uploaded [Data sample](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/data%20samples/Data%20Sample.pdf) to the Data samples folder.
 - Based on sprint3 feedback, we have updated the [Mentor feedbacks](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) with the advice from the mentor meeting.
 - For sprint4&5, we uploaded [user story map](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/User%20Story%20Map.pdf) to the user story folder.
-- For sprint4&5, we created [high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.pdf) to the high fidelity folder.
+- For sprint4&5, we created [high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.md) to the high fidelity folder. Also, a [quick look of high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.pdf) is provided.
 - For sprint4&5, we present the project our work of this semeter, and [the presentation file](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/SC_BlueRing_Presentation.pdf) was uploaded.
 - For sprint4&5, we have update the Repository Structure in README file.
 
@@ -89,6 +89,7 @@ Below is a detailed outline of the repository's structure, providing a clear ove
   - `docs/user story` - Contains user stories(include initial and confirmed with client version) completely cover the capabilities required by the client, strictly follow the file format required by the unimelb. Contains one user story feedback and confirmation from client, which help us refine some of the errors and details in the user story. Contains one user story map.
   - `docs/Trello board screen shot.jpg` - offers our Trello board.
   - `docs/Task scenarios.pdf` - include the details of five scenarios.
+  - `docs/images` - contains all images used in md files.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
   - `prototypes/low fidelity/` - Includes low-fidelity prototypes such as initial handdrawn sketches, Figma
