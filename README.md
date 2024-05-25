@@ -25,6 +25,7 @@ Supervisor: Afsana Imam
 - Based on sprint3 feedback, we have updated the [Mentor feedbacks](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) with the advice from the mentor meeting.
 - For sprint4&5, we uploaded [user story map](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/User%20Story%20Map.pdf) to the user story folder.
 - For sprint4&5, we created [high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.pdf) to the high fidelity folder.
+- For sprint4&5, we have update the Repository Structure in README file.
 
 ## Changelogs for sprint3
 - Based on sprint2 feedback, we created a new folder named [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) in the [docs](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs) directory and uploaded the reviews and retrospectives for sprint1 and sprint2 that were not previously uploaded.
