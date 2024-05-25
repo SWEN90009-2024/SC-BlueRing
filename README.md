@@ -16,8 +16,8 @@ Industry partner: Narelle English(on leave), Jason Pietzner, Richard Xu
 
 Supervisor: Afsana Imam
 
-## Changelogs for sprint4
-- For sprint4, we uploaded all meetings within sprint 3 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
+## Changelogs for sprint4&5
+- For sprint4&5, we uploaded all meetings within sprint 4&5 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
 - 
 
 ## Changelogs for sprint3
@@ -73,20 +73,25 @@ Below is a detailed outline of the repository's structure, providing a clear ove
 - `docs/` - Contains all documentation files related to the project. Documentation is organized into subfolders for better structuring and ease of access.
   - `docs/agile ceremonies` - Contains sprint reviews and sprint retrospective according to each sprint.(Sprint plannings and Sprint stand-ups are included in the Team Meetings)
   - `docs/meetings` - Contains the client meeting, internal team meeting and mentor meeting recording & meeting notes, also the mentor feedback is included.
-    - `docs/persona-justification` - Contains the evidences that the process to create personas has been followed, include DBF list and Motivational model.
+  - `docs/persona-justification` - Contains the evidences that the process to create personas has been followed, include DBF list and Motivational model.
   - `docs/personas` - Contains five personas based on the research done by our team and the discussion with the industry partners, strictly follow the file format required by the unimelb.
   - `docs/Project Background.md` - Contains the project background include description of the project that accurately and adequately defines the problem and outlines the scope of the solution.
   - `docs/Requirements Elicitation.md` - Contains our requirements elicitation methods and roles/responsibilities during the meeting with industry partner.
   - `docs/Roles and Responsibilities.md` - Contains our roles and responsibilities with our team.
-  - `docs/user story` - Contains user stories completely cover the capabilities required by the client, strictly follow the file format required by the unimelb. It also contains one user story feedback and confirmation from client, which help us refine some of the errors and details in the user story.
+  - `docs/user story` - Contains user stories(include initial and confirmed with client version) completely cover the capabilities required by the client, strictly follow the file format required by the unimelb. Contains one user story feedback and confirmation from client, which help us refine some of the errors and details in the user story. Contains one user story map.
+  - `docs/Trello board screen shot` - offers our Trello board.
+  - `docs/Task scenarios` - include the details of five scenarios.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
-  - `low fidelity/` - Includes low-fidelity prototypes such as initial sketches, Figama(with interactions)
-  - `high fidelity/` - Contains high-fidelity prototypes, including detailed screens and source files that closely resemble the final product.
+  - `prototypes/low fidelity/` - Includes low-fidelity prototypes such as initial handdrawn sketches, Figma
+  - `prototypes/high fidelity/` - Contains high-fidelity prototypes, including detailed screens and source files(edit mode and prototype mode) that closely resemble the final product.
 
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAP.
-  - `low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks from client and action plan to address comments/issues as part of the high fidelity prototype.
-  - `high fidelity/` - Contains high-fidelity usability test related files.
+  - `tests/usability test/`
+    - `tests/usability test/low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks from client and action plan to address comments/issues as part of the high fidelity prototype.
+    - `tests/usability test/high fidelity/` - Contains high-fidelity usability test related files.
+  - `tests/Acceptance Criterias.pdf` - Offers some acceptance criterias for our project.
+  - `tests/Acceptance Tests.pdf` - Offers some acceptance tests for our project.
 
 - `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAP.
 
