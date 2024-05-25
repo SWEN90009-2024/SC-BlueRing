@@ -51,5 +51,5 @@
 
 ## Conclusion
 
-In conclusion, Sprint 4 has made significant progress towards the final development of the RUBY platform. The high-fidelity prototype was successfully developed and refined based on detailed client feedback and usability tests. The use of the MoSCoW method for prioritizing user stories has provided clear direction for future developments. All necessary files and documentation have been organized and prepared for submission, ensuring a smooth transition to the final development phase. These advancements enhance the platform’s usability and reliability, aligning closely with client expectations.
+In conclusion, Sprint 4&5 has made significant progress towards the final development of the RUBY platform. The high-fidelity prototype was successfully developed and refined based on detailed client feedback and usability tests. The use of the MoSCoW method for prioritizing user stories has provided clear direction for future developments. All necessary files and documentation have been organized and prepared for submission, ensuring a smooth transition to the final development phase. These advancements enhance the platform’s usability and reliability, aligning closely with client expectations.
 
