@@ -23,14 +23,14 @@
 
 ## Discussion Points
 
-1. **Mentor checked our powerpoint**
-    - Hao showed our powerpoint to mentor.
+1. **Mentor checked our PowerPoint**
+    - Hao showed our PowerPoint to the mentor.
     - Mentor mentioned that we should give a short story to each persona.
-    - Our user case stories should come from the requirement of clients.
-    - Time is limited, so we should not spend to much time on each user story.
+    - Our use case stories should come from the requirements of clients.
+    - Time is limited, so we should not spend too much time on each user story.
     
 2. **Handover**
-    - We could provide our github in our handover.
+    - We could provide our GitHub in our handover.
 
 3. **Greeting**
     - Expressed gratitude to the mentor and fellow classmates for their cooperation this semester.

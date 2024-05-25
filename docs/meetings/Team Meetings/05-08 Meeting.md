@@ -1,4 +1,4 @@
-# Team Meeting Notes (Sprint 4&5 planning meeting)
+# Team Meeting Notes (Sprint 4&5 Planning Meeting)
 
 ## Participants
 - Haocheng Wang
@@ -40,7 +40,7 @@
       - Same as the low-fidelity version
     - **Goal**:
       - Begin UI design
-      - Develop closer to the final version
+      - Develop it closer to the final version
       - Include click-through navigation
       - Use realistic data and images
 
@@ -50,7 +50,7 @@
       - Estimation (S/M/L)
       - Planning poker as an alternative
       - Tagging release date
-      - Length: 3 sprints (1 month)
+      - Length: 3 sprints (each 1 month)
 
 5. **Data Sample** (Client)
     - **Format**:
@@ -64,9 +64,9 @@
     - **Participation**:
       - All members should attend the final presentation, but only some will present slides.
     - **Structure**:
-      - 10-minute presentation + 2-minute Q&A
+      - 10-minute presentation and a 2-minute Q&A
       - At least 1-2 minutes per slide
-      - Usability test: video [4 minutes] + feedback + actions
+      - Usability test: video [4 minutes], feedback, and actions
       - Show all completed work
       - Handover
 

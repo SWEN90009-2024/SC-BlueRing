@@ -42,15 +42,15 @@
 
 4. **Project Management**
     - Use of Trello for task management and individual contributions.
-    - Mentor requested access to Trello board for progress review.
+    - Mentor requested access to the Trello board for progress review.
     - Discussion on the possibility of providing screenshots due to Trello user limit.
 
 5. **Stand-Up Meeting**
     - Each team member shared their recent work, current tasks, and future plans.
     - Examples:
         - Hao Guan: Built main components for the high-fidelity prototype.
-        - MingChong Lo: Created user story mapping, updated Trello board.
-        - Tori Li: Finished moodboard with Aoxiang and will move on to high-fidelity prototype
+        - MingChong Li: Created user story mapping, updated Trello board.
+        - Tori Li: Finished mood board with Aoxiang and will move on to high-fidelity prototype
         - Jianqiao Song: Worked on high-fidelity prototype updates.
         - Yutian Fan: Focused on high-fidelity prototype and visualizations.
         - Heng Chen: Worked on user story map improvements.
