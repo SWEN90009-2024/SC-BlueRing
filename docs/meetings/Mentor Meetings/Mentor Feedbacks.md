@@ -41,3 +41,7 @@ The Mentor Feedbacks document will keep a record of the feedback from mentor in 
 2. Don't add too much text and long paragraphs, we can use AI tools to generate some relevant images, each slide can take 1-2 minutes.
 3. Everyone in the team should be familiar with the project in order to be prepared for the Q&A session.
 4. Describe a scenario, tell a short story to illustrate a problem, then propose a solution and reflect on the successes and challenges of the project.
+
+### Feedbacks - 21 May Meeting
+1. The mentor checked our presentation slides and was happy with them.
+2. The mentor thanked us for our cooperation and work during this semester.
