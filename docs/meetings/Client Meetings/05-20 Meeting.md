@@ -27,6 +27,7 @@
 2. **Testing Section**
     - Client tested the prototype, emphasizing the reliability of the data created from the confidence level quiz.
     - Highlighted the tutorial improvements, such as providing verbal hints to help students focus.
+    - The accpetance tests were done with clients.
 
 3. **Feedback Section**
     - Discussed the use of AI-generated images to enhance educational assessments.
