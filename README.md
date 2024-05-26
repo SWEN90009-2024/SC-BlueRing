@@ -26,6 +26,7 @@ Supervisor: Afsana Imam
 - For sprint4&5, we uploaded [user story map](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/User%20Story%20Map.pdf) to the user story folder.
 - For sprint4&5, we created [high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.md) to the high fidelity folder. Also, a [quick look of high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.pdf) is provided.
 - For sprint4&5, we present the project our work of this semeter, and [the presentation file](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/SC_BlueRing_Presentation.pdf) was uploaded.
+- For sprint4&5 and handover, we uploaded [the usability test video](https://www.youtube.com/watch?v=gRCO-VrdZCE) on Youtube.
 - For sprint4&5, we have update the Repository Structure in README file.
 
 ## Changelogs for sprint3
