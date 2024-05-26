@@ -25,6 +25,7 @@ Supervisor: Afsana Imam
 - For sprint4&5, we uploaded [Data sample](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/data%20samples/Data%20Sample.pdf) to the Data samples folder.
 - Based on sprint3 feedback, we have updated the [Mentor feedbacks](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/meetings/Mentor%20Meetings/Mentor%20Feedbacks.md) with the advice from the mentor meeting.
 - For sprint4&5, we uploaded [user story map](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/user%20story/User%20Story%20Map.pdf) to the user story folder.
+- For sprint4&5, before generated the high fidelity prototypes, we discussed about it together and generated [the mood board](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/Moodboard.pdf).
 - For sprint4&5, we created [high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.md) to the high fidelity folder. Also, a [quick look of high fidelity prototypes](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/prototypes/high%20fidelity/High%20Fidelity%20Prototype.pdf) is provided. In addition, all of the elements and UIs we used were from the original Ruby platform, so there is [no new UI created](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/ui/Description.md).
 - For sprint4&5, we present the project our work of this semeter, and [the presentation file](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/SC_BlueRing_Presentation.pdf) was uploaded.
 - For sprint4&5, [the handover document](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/SWEN90004_SC-Bluring_Handover.pdf) was generated for the client and the semester 2 develop team.
@@ -98,7 +99,6 @@ Below is a detailed outline of the repository's structure, providing a clear ove
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
   - `prototypes/low fidelity/` - Includes low-fidelity prototypes such as initial handdrawn sketches, Figma
   - `prototypes/high fidelity/` - Contains high-fidelity prototypes, including prototype present and source files(edit mode and prototype mode) that closely resemble the final product.
-
 - `tests/` - Houses user and system tests that are crucial for ensuring the reliability and functionality of the SCAS.
   - `tests/usability test/`
     - `tests/usability test/low fidelity/` - Includes low-fidelity usability test videos, notes, feedbacks from client and action plan to address comments/issues as part of the high fidelity prototype.
