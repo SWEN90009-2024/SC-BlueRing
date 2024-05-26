@@ -106,6 +106,6 @@ Below is a detailed outline of the repository's structure, providing a clear ove
   - `tests/Acceptance Criterias.pdf` - Offers some acceptance criterias for our project.
   - `tests/Acceptance Tests.pdf` - Offers some acceptance tests for our project.
 
-- `ui/` - Stores all graphical elements used in the prototypes, including icons, fonts, backgrounds, and other UI components. These assets are crucial for the design phase of the SCAS.
+- `ui/` - No new UI elements have been created; all user interfaces are derived from the original Ruby platform. Additionally, no images have been produced for high-fidelity prototypes.
 
 - `README.md` - Offers an up-to-date overview of the project repository, including its structure and the contents of each directory. The README file is essential for new contributors, providing them with all the information needed to understand and participate in the project effectively.
