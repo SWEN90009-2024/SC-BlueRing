@@ -30,6 +30,7 @@ Supervisor: Afsana Imam
 - For sprint4&5, we present the project our work of this semeter, and [the presentation file](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/SC_BlueRing_Presentation.pdf) was uploaded.
 - For sprint4&5, [the handover document](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/SWEN90004_SC-Bluring_Handover.pdf) was generated for the client and the semester 2 develop team.
 - For sprint4&5 and handover, we uploaded [the usability test video](https://www.youtube.com/watch?v=gRCO-VrdZCE) on Youtube.
+- For sprint4&5 and handover, we sent the handover file together with release notes to client, and [recorded it](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/Handover/Handover.md).
 - For sprint4&5, we have update the Repository Structure in README file.
 
 ## Changelogs for sprint3
@@ -95,6 +96,7 @@ Below is a detailed outline of the repository's structure, providing a clear ove
   - `docs/Task scenarios.pdf` - include the details of five scenarios.
   - `docs/SWEN90004_SC-Bluring_Handover.pdf` - the handover document for the client and the develop team of next semester.
   - `docs/images` - contains all images used in md files.
+  - `docs/Handover` - contains the handover record.
 
 - `prototypes/` - This directory is split into two subfolders to differentiate between the stages of prototyping:
   - `prototypes/low fidelity/` - Includes low-fidelity prototypes such as initial handdrawn sketches, Figma
