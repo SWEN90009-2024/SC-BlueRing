@@ -19,6 +19,7 @@ Supervisor: Afsana Imam
 ## Changelogs for sprint4&5
 
 - For sprint4&5, we uploaded all meetings within sprint 4&5 to the [meetings](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/meetings) subfolder.
+- For sprint4&5, we attached our trello board link here: [trello](https://trello.com/b/MNFMWyry).
 - For sprint4&5, we uploaded [Acceptance criterias](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/tests/Acceptance%20Criterias.pdf) and [Acceptance Tests](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/tests/Acceptance%20Tests.pdf) to the test folder.
 - For sprint4&5, we uploaded [sprint 4&5 reviews](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/agile%20ceremonies/Sprint-4%265%20review.md) and [sprint 4&5 retrospectives](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/docs/agile%20ceremonies/Sprint-4%265%20retrospective.md) to the [agile ceremonies](https://github.com/SWEN90009-2024/SC-BlueRing/tree/main/docs/agile%20ceremonies) folder.
 - For sprint4&5, we uploaded [Data sample](https://github.com/SWEN90009-2024/SC-BlueRing/blob/main/data%20samples/Data%20Sample.pdf) to the Data samples folder.
